@@ -8,7 +8,7 @@
 .container {
     width: 100%;
     height: 100vh;
-    background: #abdeec;
+    background: #7b7979;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -16,7 +16,7 @@
 }
 
 .calculator {
-    background: #18687e;
+    background: #3b3b3a;
     padding: 25px;
     border-radius: 25px;
 }
@@ -27,7 +27,7 @@
     width: 60px;
     height: 60px;
     border-radius: 25px;
-    box-shadow: -8px -8px 15px rgb(255, 255, 255 ,0.2) , 5px 5px 15px rgb(0, 0, 0 ,0.3);
+    box-shadow: -8px -8px 15px rgb(255, 255, 255 ,0.2) , 5px 5px 15px rgb(0, 0, 0 ,0.4);
     background: transparent;
     font-size: 25px;
     color: #e3f9ff;
@@ -60,19 +60,6 @@ button.equal {
 
 }
 
-/* .display input {
-    width: 260px;
-    height: 100px;
-    text-align: right;
-    flex: 1;
-    font-size: 55px;
-    box-shadow: inset -5px -5px 12px rgb(255, 255, 255 ,0.3) , inset 5px 5px 12px rgb(0, 0, 0 ,0.4);
-    color: #e3f9ff ;
-    margin: auto;
-    padding: 25px;
-    background: transparent;
-    border: none;
-} */
 
 
 
